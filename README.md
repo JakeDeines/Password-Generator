@@ -5,6 +5,8 @@ In this Project I created a password generator using js, html and css. The user 
 
 ## Deployed Website
 https://jakedeines.github.io/Password-Generator/.
+## Github Repository URL
+https://github.com/JakeDeines/Password-Generator
 ## Deployed Website Image
 ![Capture password generator](https://user-images.githubusercontent.com/67669417/91091790-f9e84900-e60b-11ea-921e-1af16cda0ac3.PNG)
 
